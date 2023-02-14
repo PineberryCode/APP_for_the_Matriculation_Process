@@ -2,6 +2,6 @@
 #### This application is connected with a database (MySQL).
 ##### Method:
 - POO
-##### Architect design:
+##### Design Architecture:
 - DAO
 - MVC
