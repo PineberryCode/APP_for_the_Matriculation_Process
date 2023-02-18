@@ -6,3 +6,8 @@
 - DAO
 - MVC
 - MVP
+##### Plugins:
+> - iReport-5.5.0.nbm
+> - jasperreports-components-plugin-5.5.0.nbm
+> - jasperserver-plugin-5.5.0.nbm
+> - org-jdesktop-layout-RELEASE65.nbm
