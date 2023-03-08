@@ -1,4 +1,4 @@
-# APP_Matriculation
+# APP_for_the_Matriculation_Process
 #### This application is connected with a database (MySQL).
 ##### Method:
 - POO
